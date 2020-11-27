@@ -1,6 +1,5 @@
 //Simple Array Sum
 
-
 /*
  * Complete the simpleArraySum function below.
  */
