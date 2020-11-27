@@ -19,4 +19,4 @@ function diagonalDifference(arr) {
         
     return Math.abs(primaryDiagonal - secondaryDiagonal)
 
-}
+};
